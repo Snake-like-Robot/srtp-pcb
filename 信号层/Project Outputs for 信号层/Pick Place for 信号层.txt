@@ -1,0 +1,60 @@
+Altium Designer Pick and Place Locations
+D:\Subjects\SRTP蛇型机器人\PCB\信号层\Project Outputs for 信号层\Pick Place for 信号层.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       29/11/21
+Time:       17:36
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment       Layer    Footprint                         Center-X(mm) Center-Y(mm) Rotation Description  
+X1         8MHz          TopLayer CRYSTAL-SMD_4P-L5.0-W3.2-BL       36.2270mm    28.1240mm    0        无源晶体         
+U7         STM32F405RGT  TopLayer LQFP64                            22.4790mm    16.3830mm    0        STM32F405RGT 
+U6         CD4066B       TopLayer TSSOP-14_L5.0-W4.4-P0.65-LS6.4-BL 9.2710mm     25.6540mm    0        双向传输门（FET开关） 
+U5         AP2306        TopLayer SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR 14.0970mm    16.1291mm    270      NMOS         
+U4         AP2306        TopLayer SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR 10.6680mm    16.1291mm    270      NMOS         
+U3         AP2306        TopLayer SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR 7.2390mm     16.1291mm    270      NMOS         
+U2         AP2306        TopLayer SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR 3.8100mm     16.1291mm    270      NMOS         
+U1         CJA1117B-3.3V TopLayer SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR 43.1156mm    18.8150mm    270      STM32电源输入    
+R16        10K           TopLayer 0603R                             39.1160mm    20.7645mm    270      10K          
+R15        10K           TopLayer 0603R                             31.5595mm    11.6840mm    180      10K          
+R14        10K           TopLayer 0603R                             13.5890mm    19.7485mm    270      10K          
+R13        10K           TopLayer 0603R                             11.0067mm    19.7485mm    270      10K          
+R12        10K           TopLayer 0603R                             8.4243mm     19.7485mm    270      10K          
+R11        10K           TopLayer 0603R                             5.8420mm     19.7485mm    270      10K          
+R10        10K           TopLayer 0603R                             41.4655mm    24.7650mm    0        10K          
+R9         10K           TopLayer 0603R                             28.6385mm    24.7650mm    180      10K          
+R8         10K           TopLayer 0603R                             14.7320mm    12.5095mm    90       10K          
+R7         10K           TopLayer 0603R                             12.9177mm    12.5095mm    90       10K          
+R6         10K           TopLayer 0603R                             11.1034mm    12.5095mm    90       10K          
+R5         10K           TopLayer 0603R                             9.2891mm     12.5095mm    90       10K          
+R4         10K           TopLayer 0603R                             7.4749mm     12.5095mm    90       10K          
+R3         10K           TopLayer 0603R                             5.6606mm     12.5095mm    90       10K          
+R2         10K           TopLayer 0603R                             3.8463mm     12.5095mm    90       10K          
+R1         10K           TopLayer 0603R                             2.0320mm     12.5095mm    90       10K          
+KEY1       KEY           TopLayer KEY-SMD_2P-L6.0-W6.0-P6.00        34.2900mm    20.8280mm    90       ""           
+J5         KF301-5.0-2P  TopLayer KF301-2P-DC                       17.7800mm    28.9560mm    0        电源输入         
+USART6     5264-4        TopLayer 5264-4                            43.1600mm    8.2550mm     180      串口线          
+ST-LINK    XH_2.54_4P    TopLayer XH-2.54_7P_2.54                   29.7186mm    5.8420mm     180      端子           
+USART3_5V  5264-3        TopLayer 5264-3                            17.6930mm    7.9219mm     0        电机连接线        
+USART2_5V  5264-3        TopLayer 5264-3                            6.6040mm     7.9219mm     0        电机连接线        
+D4         LED0603       TopLayer 0603Led                           31.4960mm    28.0408mm    270      ""           
+D3         LED0603       TopLayer 0603Led                           29.2523mm    28.0408mm    270      ""           
+D2         LED0603       TopLayer 0603Led                           27.0087mm    28.0408mm    270      ""           
+D1         LED0603       TopLayer 0603Led                           24.7650mm    28.0408mm    270      ""           
+C13        104           TopLayer 0603C                             31.5698mm    13.5890mm    180      104          
+C12        104           TopLayer 0603C                             34.7448mm    13.5890mm    180      104          
+C11        104           TopLayer 0603C                             37.9198mm    13.5890mm    0        104          
+C10        104           TopLayer 0603C                             37.9198mm    15.3670mm    180      104          
+C9         104           TopLayer 0603C                             34.7448mm    15.3670mm    180      104          
+C8         104           TopLayer 0603C                             31.5698mm    15.3670mm    180      104          
+C7         22uF          TopLayer 1206C                             43.1265mm    13.9387mm    180      22uF         
+C6         104           TopLayer 0603C                             41.4685mm    28.1940mm    180      104          
+C5         104           TopLayer 0603C                             46.8630mm    14.4042mm    270      104          
+C4         104           TopLayer 0603C                             25.4000mm    24.7650mm    180      104          
+C3         104           TopLayer 0603C                             41.4552mm    26.5430mm    180      104          
+C2         104           TopLayer 0603C                             46.8630mm    17.8332mm    90       104          
+C1         22uF          TopLayer 1206C                             43.1265mm    16.5737mm    180      22uF         

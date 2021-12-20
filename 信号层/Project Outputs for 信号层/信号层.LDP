@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Subjects\SRTP蛇型机器人\PCB\信号层\信号层.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=信号层-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=信号层-slotholes-plated.txt|DrillLayers=gtl,gbl
